@@ -1,0 +1,2 @@
+# jogospy
+Estudos sobre pygame
